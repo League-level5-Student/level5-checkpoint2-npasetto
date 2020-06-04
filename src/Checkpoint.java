@@ -29,7 +29,7 @@ public class Checkpoint {
 		 * 
 		 * 5. Print only the cars with "toyota" in the name.
 		 */
-		
+		ArrayList<CarMPGEntry> cars=readCarMPGEntryDataFromFile();
 		
 	}
 	
